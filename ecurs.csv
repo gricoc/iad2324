@@ -1,0 +1,112 @@
+id,data,sexe,origen,germans,cosins,dieta,piercings,estacio,costa_muntanya,cafe_te,internet,transport,ideologia,crisi_ecologica,sexisme,prioritat_1,prioritat_2,independencia
+1,2023-09-13T09:24:19Z,Dona,BCN ciutat,1,11,Només vegetal,4,Estiu,Costa,Café,7,peu,0,10,9,Veu gent,Atur,Depèn/NS
+2,2023-09-13T09:25:40Z,Home,BCN ciutat,0,9,Animal i vegetal,1,Primavera,Muntanya,Café,5,Metro i Ferros,1,7,10,Veu gent,Atur,A favor
+3,2023-09-13T09:26:12Z,Home,BCN província,2,2,Animal i vegetal,0,Hivern,Muntanya,Café,6,Bus,5,8,5,Ordre país,Atur,En contra
+4,2023-09-13T09:26:18Z,Dona,BCN província,0,3,Animal i vegetal,5,Tardor,Costa,Café,5,autobús,2,7,8,Veu gent,Atur,Depèn/NS
+5,2023-09-13T09:26:54Z,Home,BCN província,1,13,Animal i vegetal,0,Hivern,Costa,Café,6,Bus,1,9,10,Atur,Llibertat expressió,A favor
+6,2023-09-13T09:27:28Z,Home,BCN província,3,3,Animal i vegetal,1,Primavera,Costa,Te,7,Tren + Bus,0,7,7,Atur,Llibertat expressió,En contra
+7,2023-09-13T09:27:30Z,Dona,BCN ciutat,2,2,Animal i vegetal,7,Primavera,Muntanya,Café,5,autobus,1,5,8,Ordre país,Llibertat expressió,A favor
+8,2023-09-13T09:27:32Z,Home,BCN província,1,2,Animal i vegetal,0,Hivern,Muntanya,Café,4,1,4,8,6,Ordre país,Atur,En contra
+9,2023-09-13T09:27:41Z,Home,BCN província,2,10,Animal i vegetal,0,Hivern,Muntanya,Café,5,"Tren, bus",6,8,5,Veu gent,Llibertat expressió,A favor
+10,2023-09-13T09:27:45Z,Dona,BCN província,1,8,Animal i vegetal,0,Estiu,Costa,Café,4,Autobús i ferrocarrils,0,8,9,Veu gent,Atur,A favor
+11,2023-09-13T09:27:48Z,Home,BCN província,0,6,Animal i vegetal,2,Tardor,Costa,Cap,8,Tren,2,8,4,Atur,Llibertat expressió,A favor
+12,2023-09-13T09:27:56Z,Home,BCN província,0,3,Animal i vegetal,2,Estiu,Costa,Te,7,Bus i ferrocarril,2,8,4,Veu gent,Atur,En contra
+13,2023-09-13T09:27:58Z,Dona,BCN província,1,7,Animal i vegetal,3,Tardor,Costa,Café,6,Tren RENFE,0,7,10,Veu gent,Atur,Depèn/NS
+14,2023-09-13T09:27:58Z,Home,BCN ciutat,1,20,Animal i vegetal,0,Estiu,Muntanya,Cap,1,Tren y Ferrocarril,2,7,8,Veu gent,Llibertat expressió,A favor
+15,2023-09-13T09:28:06Z,Home,BCN província,1,12,Animal i vegetal,0,Tardor,Muntanya,Café,8,Tren,7,4,2,Ordre país,Atur,Depèn/NS
+16,2023-09-13T09:28:08Z,Dona,BCN província,0,3,Animal i vegetal,5,Estiu,Costa,Café,6,Ferrocarrils,1,7,9,Atur,Llibertat expressió,Depèn/NS
+17,2023-09-13T09:28:25Z,Dona,Fora de BCN,0,2,Animal i vegetal,5,Primavera,Costa,Café,3,Bus,1,8,10,Ordre país,Atur,A favor
+18,2023-09-13T09:29:05Z,Home,BCN província,1,4,Animal i vegetal,0,Estiu,Muntanya,Café,9,"RENFE, FGC o cotxe.",2,8,9,Atur,Llibertat expressió,A favor
+19,2023-09-13T09:29:08Z,Home,BCN província,1,7,Animal i vegetal,0,Primavera,Costa,Te,18,Tren,2,7,10,Veu gent,Atur,A favor
+20,2023-09-13T09:29:10Z,Dona,BCN ciutat,2,7,Animal i vegetal,6,Tardor,Costa,Café,4,Un,2,10,10,Veu gent,Atur,En contra
+21,2023-09-13T09:29:11Z,Home,BCN província,1,2,Animal i vegetal,0,Estiu,Muntanya,Café,5,Bus,1,6,2,Ordre país,Veu gent,A favor
+22,2023-09-13T09:29:13Z,Home,BCN província,1,9,Animal i vegetal,0,Primavera,Costa,Café,8,ferrocarrils,0,4,8,Veu gent,Atur,A favor
+23,2023-09-13T09:29:25Z,Home,BCN província,2,4,Animal i vegetal,1,Hivern,Muntanya,Te,3,Metro i FGC,0,8,10,Veu gent,Llibertat expressió,A favor
+24,2023-09-13T09:29:34Z,Home,BCN província,1,7,Animal i vegetal,2,Hivern,Costa,Café,8,bus,0,4,7,Atur,Llibertat expressió,A favor
+25,2023-09-13T09:29:36Z,Dona,BCN província,1,2,Animal i vegetal,4,Tardor,Costa,Café,5,tren i bus,2,7,10,Veu gent,Llibertat expressió,A favor
+26,2023-09-13T09:29:38Z,Dona,BCN província,1,29,Animal i vegetal,1,Primavera,Muntanya,Café,4,Autocar,0,8,10,Ordre país,Atur,A favor
+27,2023-09-13T09:29:43Z,Dona,BCN província,1,5,Animal i vegetal,4,Estiu,Costa,Cap,4,"Tren, metro, ferro",3,5,10,Veu gent,Llibertat expressió,Depèn/NS
+28,2023-09-13T09:29:56Z,Dona,BCN província,3,23,Animal i vegetal,2,Tardor,Costa,Te,4,Bus,2,5,5,Veu gent,Atur,Depèn/NS
+29,2023-09-13T09:29:56Z,Dona,BCN província,0,4,Animal i vegetal,6,Primavera,Costa,Café,3,Tren,0,9,10,Veu gent,Atur,Depèn/NS
+30,2023-09-13T09:30:08Z,Dona,BCN província,1,5,Animal i vegetal,2,Estiu,Costa,Café,10,cotxe o tren,0,7,9,Atur,Llibertat expressió,A favor
+31,2023-09-13T09:30:28Z,Home,BCN província,2,12,Animal i vegetal,0,Hivern,Costa,Café,5,Renfe,5,4,6,Ordre país,Llibertat expressió,En contra
+32,2023-09-13T09:30:44Z,Dona,BCN província,1,3,Animal i vegetal,1,Estiu,Costa,Café,5,Cotxe,0,10,7,Veu gent,Llibertat expressió,A favor
+33,2023-09-13T09:30:56Z,Dona,BCN província,1,2,Animal i vegetal,3,Estiu,Costa,Cap,5,Ferrocarrils,0,10,9,Atur,Llibertat expressió,En contra
+34,2023-09-13T09:30:58Z,Home,BCN província,1,5,Animal i vegetal,1,Estiu,Costa,Café,7,moto,3,10,6,Veu gent,Llibertat expressió,Depèn/NS
+35,2023-09-13T09:31:08Z,Dona,BCN província,1,10,Animal i vegetal,2,Estiu,Costa,Café,3,tren i cotxe,5,7,8,Atur,Llibertat expressió,A favor
+36,2023-09-13T09:31:09Z,Dona,Fora de BCN,1,11,Només vegetal,4,Estiu,Costa,Café,3,Tren i bus,3,8,9,Atur,Llibertat expressió,Depèn/NS
+37,2023-09-13T09:31:33Z,Dona,Fora de BCN,1,2,Animal i vegetal,10,Estiu,Costa,Café,3,ferrocarril,5,6,8,Veu gent,Llibertat expressió,Depèn/NS
+38,2023-09-13T09:33:26Z,Home,BCN província,1,5,Animal i vegetal,0,Estiu,Costa,Te,8,ferrocarril i bus,1,2,3,Ordre país,Atur,En contra
+39,2023-09-13T09:33:45Z,Dona,BCN província,0,1,Animal i vegetal,2,Estiu,Costa,Café,5,Bus,7,9,8,Veu gent,Atur,A favor
+40,2023-09-13T09:33:50Z,Dona,BCN província,1,12,Animal i vegetal,4,Estiu,Costa,Café,6,Tren,5,6,7,Ordre país,Veu gent,En contra
+41,2023-09-13T09:34:14Z,Dona,BCN ciutat,1,9,Animal i vegetal,9,Estiu,Costa,Café,4,bus i ferrocarril,2,5,8,Veu gent,Llibertat expressió,Depèn/NS
+42,2023-09-13T09:35:13Z,Home,BCN província,0,4,Animal i vegetal,0,Hivern,Muntanya,Café,5,AUTOBUS,2,7,8,Atur,Llibertat expressió,A favor
+43,2023-09-13T09:35:24Z,Home,BCN província,1,7,Animal i vegetal,0,Estiu,Costa,Café,2,FGC,2,7,6,Veu gent,Llibertat expressió,A favor
+44,2023-09-13T09:35:35Z,Home,BCN província,1,5,Animal i vegetal,1,Primavera,Muntanya,Cap,6,Ferrocarril i Metro,1,7,6,Atur,Llibertat expressió,Depèn/NS
+45,2023-09-13T09:38:00Z,Dona,BCN província,1,3,Animal i vegetal,6,Estiu,Costa,Te,2,Autobús i tren,5,8,8,Veu gent,Atur,En contra
+46,2023-09-13T10:24:49Z,Dona,BCN ciutat,2,10,Animal i vegetal,5,Tardor,Costa,Café,7,ferrocarrils,2,6,10,Veu gent,Atur,Depèn/NS
+47,2023-09-13T13:49:40Z,Home,Fora de BCN,0,5,Animal i vegetal,0,Tardor,Muntanya,Cap,5,el tren,2,9,9,Veu gent,Llibertat expressió,Depèn/NS
+48,2023-09-13T15:28:53Z,Dona,BCN província,1,15,Animal i vegetal,2,Estiu,Costa,Café,10,cotxe tren,5,6,5,Veu gent,Llibertat expressió,En contra
+49,2023-09-13T15:29:39Z,Home,BCN ciutat,5,5,Animal i vegetal,0,Hivern,Costa,Café,3,Ferrocarril,5,9,5,Veu gent,Atur,En contra
+50,2023-09-13T15:30:27Z,Dona,BCN província,1,0,Només vegetal,5,Estiu,Costa,Café,5,TREN,2,7,7,Ordre país,Veu gent,Depèn/NS
+51,2023-09-13T15:30:37Z,Dona,BCN ciutat,0,10,Animal i vegetal,3,Primavera,Muntanya,Café,5,bus,3,8,8,Ordre país,Llibertat expressió,Depèn/NS
+52,2023-09-13T15:30:46Z,Dona,Fora de BCN,2,4,Animal i vegetal,5,Tardor,Muntanya,Te,5,Tren i ferrocarril,0,8,9,Veu gent,Llibertat expressió,A favor
+53,2023-09-13T15:31:19Z,Dona,Fora de BCN,2,7,Només vegetal,2,Estiu,Muntanya,Café,3,Caminant,0,8,8,Veu gent,Atur,Depèn/NS
+54,2023-09-13T15:31:39Z,Home,BCN ciutat,1,8,Animal i vegetal,0,Estiu,Costa,Café,3,2,2,10,6,Atur,Llibertat expressió,A favor
+55,2023-09-13T15:31:48Z,Dona,Fora de BCN,0,0,Majoritàriament vegetal,0,Hivern,Muntanya,Café,5,Bus,2,8,10,Veu gent,Atur,En contra
+56,2023-09-13T15:31:50Z,Dona,BCN província,1,8,Animal i vegetal,2,Estiu,Muntanya,Café,5,Bus,5,9,7,Ordre país,Veu gent,En contra
+57,2023-09-13T15:31:52Z,Dona,Fora de BCN,1,2,Animal i vegetal,4,Estiu,Costa,Te,5,metro i ferrocarril,3,5,7,Veu gent,Llibertat expressió,A favor
+58,2023-09-13T15:31:55Z,Dona,Fora de BCN,1,1,Animal i vegetal,3,Estiu,Costa,Café,4,autobús,2,9,10,Atur,Llibertat expressió,Depèn/NS
+59,2023-09-13T15:32:06Z,Home,BCN província,1,6,Animal i vegetal,1,Tardor,Muntanya,Café,4,1,0,10,10,Veu gent,Atur,A favor
+60,2023-09-13T15:32:07Z,Dona,BCN província,1,4,Majoritàriament vegetal,0,Tardor,Costa,Café,4,Bus,0,9,10,Veu gent,Atur,A favor
+61,2023-09-13T15:32:13Z,Home,BCN ciutat,1,3,Animal i vegetal,0,Primavera,Costa,Café,4,3,4,8,1,Veu gent,Llibertat expressió,A favor
+62,2023-09-13T15:32:22Z,Dona,BCN província,2,8,Animal i vegetal,8,Primavera,Muntanya,Café,8,Tren i a peu,2,8,7,Ordre país,Llibertat expressió,A favor
+63,2023-09-13T15:32:49Z,Dona,Fora de BCN,0,4,Animal i vegetal,8,Estiu,Costa,Cap,8,"Bus, tren",2,8,7,Veu gent,Atur,A favor
+64,2023-09-13T15:33:13Z,Home,BCN província,1,4,Animal i vegetal,0,Hivern,Muntanya,Cap,3,Tren i bus,7,7,0,Ordre país,Atur,En contra
+65,2023-09-13T15:33:27Z,Home,BCN província,1,2,Animal i vegetal,0,Hivern,Muntanya,Te,6,Autobus,4,7,9,Veu gent,Atur,A favor
+66,2023-09-13T15:33:30Z,Dona,BCN província,1,4,Animal i vegetal,6,Tardor,Muntanya,Café,6,"Tren, metro i ferrocarrils",5,10,7,Atur,Llibertat expressió,Depèn/NS
+67,2023-09-13T15:33:39Z,Dona,BCN província,0,4,Animal i vegetal,3,Tardor,Muntanya,Café,5,metro i fgc,0,9,10,Atur,Llibertat expressió,En contra
+68,2023-09-13T15:33:44Z,Home,BCN província,0,10,Animal i vegetal,2,Primavera,Costa,Cap,4,3 trens d'anada i 3 de tornada,0,5,1,Veu gent,Llibertat expressió,En contra
+69,2023-09-13T15:33:45Z,Dona,BCN província,0,1,Animal i vegetal,2,Primavera,Costa,Café,4,Tren i bus,4,8,7,Ordre país,Atur,Depèn/NS
+70,2023-09-13T15:34:22Z,Dona,BCN província,1,4,Animal i vegetal,3,Tardor,Muntanya,Te,4,la fgc,0,9,10,Veu gent,Llibertat expressió,A favor
+71,2023-09-13T15:34:28Z,Dona,BCN ciutat,4,3,Només vegetal,1,Primavera,Muntanya,Café,3,Ferro,3,10,6,Atur,Llibertat expressió,En contra
+72,2023-09-13T15:34:37Z,Dona,BCN província,2,20,Animal i vegetal,2,Tardor,Muntanya,Café,5,Autobus,0,8,10,Veu gent,Llibertat expressió,Depèn/NS
+73,2023-09-13T15:34:45Z,Home,BCN província,1,1,Animal i vegetal,0,Tardor,Costa,Cap,5,2,4,6,6,Atur,Llibertat expressió,Depèn/NS
+74,2023-09-13T15:34:52Z,Home,BCN província,1,4,Animal i vegetal,0,Primavera,Muntanya,Café,6,Bus y cotxe,6,0,0,Veu gent,Llibertat expressió,En contra
+75,2023-09-13T15:34:53Z,Home,BCN ciutat,0,14,Animal i vegetal,1,Tardor,Costa,Café,10,1,0,9,8,Veu gent,Llibertat expressió,Depèn/NS
+76,2023-09-13T15:35:20Z,Dona,BCN província,1,3,Majoritàriament vegetal,4,Tardor,Muntanya,Te,6,Tren,0,7,7,Atur,Llibertat expressió,Depèn/NS
+77,2023-09-13T15:35:26Z,Dona,Fora de BCN,1,0,Animal i vegetal,0,Estiu,Muntanya,Café,3,Bus i dos ferrocarrils,3,5,10,Veu gent,Llibertat expressió,A favor
+78,2023-09-13T15:35:40Z,Dona,Fora de BCN,1,10,Animal i vegetal,4,Estiu,Costa,Café,4,Tren,2,5,10,Atur,Llibertat expressió,A favor
+79,2023-09-13T15:35:49Z,Dona,BCN província,4,5,Animal i vegetal,2,Primavera,Muntanya,Te,5,bus i tren,1,8,8,Veu gent,Llibertat expressió,A favor
+80,2023-09-13T15:35:55Z,Dona,Fora de BCN,1,15,Només vegetal,3,Estiu,Costa,Café,5,2,4,7,6,Ordre país,Llibertat expressió,En contra
+81,2023-09-13T15:36:15Z,Dona,BCN ciutat,1,2,Animal i vegetal,4,Estiu,Muntanya,Café,5,1,0,9,10,Veu gent,Llibertat expressió,A favor
+82,2023-09-13T15:36:36Z,Dona,BCN província,1,21,Animal i vegetal,2,Primavera,Costa,Te,4,tren,1,7,8,Veu gent,Llibertat expressió,A favor
+83,2023-09-13T15:36:56Z,Home,BCN ciutat,0,6,Animal i vegetal,0,Tardor,Costa,Te,6,Autobús,5,7,2,Atur,Llibertat expressió,Depèn/NS
+84,2023-09-13T15:37:03Z,Dona,BCN província,1,4,Animal i vegetal,7,Estiu,Muntanya,Café,5,3,0,8,10,Veu gent,Llibertat expressió,A favor
+85,2023-09-13T15:37:25Z,Dona,Fora de BCN,1,4,Animal i vegetal,5,Estiu,Costa,Café,5,2,0,9,10,Ordre país,Veu gent,A favor
+86,2023-09-13T15:38:34Z,Home,BCN ciutat,0,4,Animal i vegetal,0,Hivern,Muntanya,Café,2,Autobús,3,7,6,Ordre país,Llibertat expressió,A favor
+87,2023-09-13T15:38:35Z,Dona,Fora de BCN,3,20,Animal i vegetal,2,Tardor,Muntanya,Te,6,3,7,7,6,Ordre país,Veu gent,Depèn/NS
+88,2023-09-13T15:38:38Z,Home,BCN província,1,5,Animal i vegetal,0,Hivern,Muntanya,Café,4,tren,6,5,0,Ordre país,Veu gent,A favor
+89,2023-09-13T15:39:09Z,Dona,BCN província,0,2,Animal i vegetal,5,Estiu,Costa,Te,5,"tren, ferrocarril",4,7,9,Veu gent,Atur,Depèn/NS
+90,2023-09-13T15:39:17Z,Dona,BCN província,1,1,Animal i vegetal,2,Primavera,Costa,Cap,7,tren o autobús,5,5,5,Ordre país,Veu gent,En contra
+91,2023-09-13T15:40:00Z,Dona,BCN província,1,2,Només vegetal,0,Primavera,Muntanya,Te,3,tren,0,9,10,Veu gent,Llibertat expressió,Depèn/NS
+92,2023-09-13T15:40:10Z,Dona,BCN província,1,10,Animal i vegetal,0,Hivern,Costa,Te,3,"Cotxe,tren,bus",0,5,5,Ordre país,Atur,A favor
+93,2023-09-13T15:40:14Z,Dona,BCN ciutat,0,2,Animal i vegetal,10,Hivern,Costa,Café,3,ferrocarril,0,9,10,Veu gent,Llibertat expressió,A favor
+94,2023-09-13T15:41:14Z,Dona,BCN província,1,6,Animal i vegetal,2,Tardor,Muntanya,Te,4,Tren,0,5,8,Atur,Llibertat expressió,A favor
+95,2023-09-13T15:41:30Z,Dona,BCN província,5,40,Animal i vegetal,3,Hivern,Costa,Te,3,1 o 3,2,7,6,Veu gent,Llibertat expressió,Depèn/NS
+96,2023-09-13T15:42:41Z,Dona,BCN província,2,13,Animal i vegetal,0,Hivern,Costa,Café,5,tren,2,8,6,Ordre país,Llibertat expressió,Depèn/NS
+97,2023-09-13T15:43:08Z,Dona,BCN província,1,8,Animal i vegetal,2,Hivern,Muntanya,Te,3,Cotxe,2,8,5,Veu gent,Llibertat expressió,Depèn/NS
+98,2023-09-13T15:43:38Z,Home,Fora de BCN,1,3,Animal i vegetal,0,Estiu,Costa,Cap,4,3,1,5,7,Atur,Llibertat expressió,A favor
+99,2023-09-13T15:44:01Z,Dona,BCN província,1,8,Animal i vegetal,9,Estiu,Muntanya,Cap,5,Autobús,0,4,10,Veu gent,Llibertat expressió,A favor
+100,2023-09-13T16:11:54Z,Home,BCN ciutat,1,0,Animal i vegetal,0,Hivern,Muntanya,Te,6,Metro i ferrocarrils,6,7,3,Atur,Llibertat expressió,Depèn/NS
+101,2023-09-13T19:23:10Z,Dona,BCN província,1,8,Animal i vegetal,2,Estiu,Muntanya,Café,5,Bus,5,9,7,Ordre país,Veu gent,En contra
+102,2023-09-13T22:45:15Z,Dona,BCN ciutat,1,4,Animal i vegetal,2,Primavera,Costa,Cap,3,Metro i ferrocarril,4,10,8,Atur,Llibertat expressió,Depèn/NS
+103,2023-09-14T09:18:24Z,Dona,BCN província,1,8,Majoritàriament vegetal,5,Estiu,Costa,Café,6,Ferrocarrils,3,2,3,Atur,Llibertat expressió,En contra
+104,2023-09-15T09:14:02Z,Dona,BCN província,2,3,Animal i vegetal,4,Primavera,Muntanya,Café,3,FGC,2,9,10,Veu gent,Llibertat expressió,A favor
+105,2023-09-18T19:17:54Z,Home,BCN província,1,3,Animal i vegetal,1,Estiu,Muntanya,Te,3,tren i moto,3,7,3,Veu gent,Atur,A favor
+106,2023-09-19T12:52:35Z,Home,BCN província,1,7,Animal i vegetal,0,Estiu,Muntanya,Café,3,"Cotxe, tren.",1,8,9,Veu gent,Atur,Depèn/NS
+107,2023-09-27T10:37:36Z,Dona,BCN província,0,5,Només vegetal,3,Tardor,Muntanya,Café,3,Ferrocarrils,1,8,7,Veu gent,Atur,A favor
+108,2023-09-27T10:38:04Z,Home,BCN província,1,7,Animal i vegetal,0,Estiu,Costa,Café,3,FGC,2,8,5,Atur,Llibertat expressió,A favor
+109,2023-09-27T10:39:00Z,Dona,Fora de BCN,1,12,Animal i vegetal,10,Estiu,Costa,Café,5,Autobus,1,10,10,Atur,Llibertat expressió,Depèn/NS
+110,2023-09-27T16:29:41Z,Dona,Fora de BCN,1,5,Només vegetal,4,Estiu,Costa,Café,4,tren,2,9,8,Ordre país,Llibertat expressió,A favor
+111,2023-09-27T16:37:00Z,Dona,BCN província,2,1,Animal i vegetal,4,Primavera,Muntanya,Café,8,Ferrocarrils catalans,5,10,9,Atur,Llibertat expressió,A favor
